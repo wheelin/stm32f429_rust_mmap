@@ -1,0 +1,9 @@
+[package]
+name = "stm32f429"
+version = "0.1.0"
+authors = ["wheelin <greg.emry@gmail.com>"]
+
+[dependencies]
+volatile-register = "0.2.0"
+cortex-m = "0.2.1"
+vcell = "0.1.0"
