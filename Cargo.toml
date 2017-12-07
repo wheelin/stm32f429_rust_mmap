@@ -5,6 +5,6 @@ authors = ["wheelin <greg.emry@gmail.com>"]
 
 [dependencies]
 volatile-register = "0.2.0"
-cortex-m = "0.2.1"
+cortex-m = "0.3.1"
 vcell = "0.1.0"
 bare-metal = "0.1.1"
